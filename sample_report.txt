@@ -1,0 +1,27 @@
+HEALTHCARE DATA INTELLIGENCE REPORT
+========================================
+Source records: 10
+Unique clinics after deduplication: 8
+Duplicates removed: 2
+
+Clinics by city:
+City
+Sydney       2
+Brisbane     2
+Perth        2
+Melbourne    1
+Adelaide     1
+
+Speciality distribution:
+Speciality
+General Practice    5
+Family Medicine     3
+
+Data quality:
+Data_Quality
+Complete        6
+Needs Review    2
+Missing phone: 2
+Missing website: 1
+
+Note: sample records are fictional placeholders.
